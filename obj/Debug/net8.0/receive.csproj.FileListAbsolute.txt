@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\receive\bin\Debug\net8.0\receive.exe
+C:\Users\DELL\Desktop\receive\bin\Debug\net8.0\receive.deps.json
+C:\Users\DELL\Desktop\receive\bin\Debug\net8.0\receive.runtimeconfig.json
+C:\Users\DELL\Desktop\receive\bin\Debug\net8.0\receive.dll
+C:\Users\DELL\Desktop\receive\bin\Debug\net8.0\receive.pdb
+C:\Users\DELL\Desktop\receive\obj\Debug\net8.0\receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\receive\obj\Debug\net8.0\receive.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\receive\obj\Debug\net8.0\receive.AssemblyInfo.cs
+C:\Users\DELL\Desktop\receive\obj\Debug\net8.0\receive.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\receive\obj\Debug\net8.0\receive.dll
+C:\Users\DELL\Desktop\receive\obj\Debug\net8.0\refint\receive.dll
+C:\Users\DELL\Desktop\receive\obj\Debug\net8.0\receive.pdb
+C:\Users\DELL\Desktop\receive\obj\Debug\net8.0\receive.genruntimeconfig.cache
+C:\Users\DELL\Desktop\receive\obj\Debug\net8.0\ref\receive.dll
